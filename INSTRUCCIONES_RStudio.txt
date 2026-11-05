@@ -1,0 +1,7 @@
+1. Extraer el ZIP completo.
+2. Abrir Grupo9.Rproj en RStudio.
+3. Abrir paper_g9.qmd en File > Open File.
+4. Terminal: quarto check
+5. Terminal: quarto render paper_g9.qmd --to html
+6. Para PDF: quarto render paper_g9.qmd --to pdf
+7. Si falta LaTeX: quarto install tinytex
